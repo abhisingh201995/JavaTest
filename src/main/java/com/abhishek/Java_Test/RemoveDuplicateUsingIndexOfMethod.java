@@ -4,6 +4,8 @@ public class RemoveDuplicateUsingIndexOfMethod {
 
 	public static void main(String[] args) {
 
+		// test for pushing to github..
+
 		// Create a string variable with default value
 		String str = "JavaTpoint is the best learning website";
 
