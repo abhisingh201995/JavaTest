@@ -1,0 +1,18 @@
+
+//First time configuring Git to local...
+
+git init to the repo
+git add .
+git commit -m "commit message"
+git remote add origin https://github.com/abhisingh201995/JavaTest.git
+git branch -M main
+git push -u origin main
+
+********************************
+git push
+
+**********************************
+Select * From Employee Emp1
+Where(n)=(Select Count (Distinct (Emp2.Employee))
+From Employee Emp2
+Where Emp2.salary >= Emp1.salary);
