@@ -14,8 +14,6 @@ public class RemoveDuplicateCharInString {
 
 		StringBuilder str2 = new StringBuilder(str1);
 
-		// char[] ch = str1.toCharArray();
-
 		System.out.println("str2 is :" + str2);
 
 		for (int i = 0; i < str2.length() - 1; i++) {
